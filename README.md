@@ -1,5 +1,5 @@
 # textbook-concept-extract
-I wrote this program to extract concept definitions from Chinese senior high school textbooks.
+I wrote this program to extract concept definitions from Chinese senior high school textbooks. Sorry for no Chinese ver. readme, I'm just lazy not to translate it. 
 
 ## Before Start
 
@@ -16,3 +16,5 @@ There are some python libraries you may not have installed. And horribly I forgo
 ## PS
 
 I only used it to extract from Biology books, for other subjects, test yourself :)
+
+pps. I uploaded the ver. of bio concept im using so far. btw MS Word's new icon sucks. really ugly to show on windows esp.dark mode but seem better on ios/macos, no wonder they say ms is the best apple developer.
